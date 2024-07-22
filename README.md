@@ -1,3 +1,5 @@
+---
+[![Build Status](https://dev.azure.com/durishettisd/new/_apis/build/status%2FDivya-luffyServer.new?branchName=feature%2Fhome-page-text)](https://dev.azure.com/durishettisd/new/_build/latest?definitionId=13&branchName=feature%2Fhome-page-text)
 
 # Contributing
 
